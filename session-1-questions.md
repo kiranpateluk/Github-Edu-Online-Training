@@ -8,4 +8,4 @@ To help my delivery of Code Club
 
 3. What are ways Github could help students manage the code?
 
-To help colloberation without conflict
+To help collaboration without conflict
